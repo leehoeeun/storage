@@ -109,7 +109,7 @@
   "recipeLists": [
     { 
       "docId": 1,
-      "hashtags": [],
+      "hashtags": ["김치찌개", "국물요리", "BTS", "해장"],
       "difficulty": "중",
       "imageFilesPath": ["http://www.foodsafetykorea.go.kr/uploadimg/cook/10_00275_1.png", "http://www.foodsafetykorea.go.kr/uploadimg/cook/10_00275_2.png"],
       "ingredientItems": ["재료 바지락", "주꾸미", "김치", "무", "마늘", "대파", "양파", "두부", "참기름", "배즙", "팽이버섯", "육수 다시마", "멸치", "물"],
